@@ -2,18 +2,18 @@
   "name": "goit-9",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AnatoliyYakovenko.github.io/goit-9",
+  "homepage": "https://AnatoliyYakovenko.github.io/goit-js-hw-09",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-9/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnatoliyYakovenko/goit-9.git"
+    "url": "git+https://github.com/AnatoliyYakovenko/goit-js-hw-09.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/AnatoliyYakovenko/goit-9/issues"
+    "url": "https://github.com/AnatoliyYakovenko/goit-js-hw-09/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
